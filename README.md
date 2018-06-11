@@ -1,6 +1,7 @@
 # Facial-Landmark-Detector
 
-  This is Facial landmark detector repo using Dlib. This repo provides a very simple yet accurate facial landmark detection     in real time.
+  This is Facial landmark detector repo using Dlib face detector. 
+  This repo provides a very simple yet accurate facial landmark detection in real time.
 
 
   Note:For more detailed information and Theory of landmark detection please find the .pdf file from thr provided link,
@@ -9,8 +10,8 @@
 
 # Dependencies
   
-  Dlib
-  Numpy
+  1)  Dlib.
+  2)  Numpy.
   
   
 # Setup
