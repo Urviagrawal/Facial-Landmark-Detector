@@ -29,6 +29,8 @@
   Note: The codes are self explanatory, still some doubts feel free to raise up an issue.
   
   
+  *shape_predictor_68_face_landmark.dat is a pretrained model from https://github.com/davisking/dlib-models
+  
   Thank you.
       
       
